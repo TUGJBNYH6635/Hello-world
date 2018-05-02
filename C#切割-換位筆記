@@ -1,0 +1,10 @@
+string[] z = Console.ReadLine().Split(' ');
+
+string[] z = Console.ReadLine().Split(' ');
+                if (z[0] == "") break;
+                int x = int.Parse(z[0]);
+                int c = int.Parse(z[1]);
+
+
+if (X > Y)       //基本換位
+   { temp = X; X = Y; Y = temp; }
